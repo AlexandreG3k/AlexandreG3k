@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Alexandre Gomes
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Backend`**
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 20 anos | Salvador-BA.
 🐍 Full Stack Developer focado em extrair o máximo desempenho do ecossistema Python.
