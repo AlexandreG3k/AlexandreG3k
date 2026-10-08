@@ -1,9 +1,28 @@
-# 👨🏽‍💻 Alexandre Gomes
+<div align="center">
+  
+```                                                          
+  ______  __                                           __                   
+ /      \|  \                                         |  \                  
+|  ▓▓▓▓▓▓\ ▓▓ ______  __    __ _______   ______   ____| ▓▓ ______   ______  
+| ▓▓__| ▓▓ ▓▓/      \|  \  /  \       \ |      \ /      ▓▓/      \ /      \ 
+| ▓▓    ▓▓ ▓▓  ▓▓▓▓▓▓\\▓▓\/  ▓▓ ▓▓▓▓▓▓▓\ \▓▓▓▓▓▓\  ▓▓▓▓▓▓▓  ▓▓▓▓▓▓\  ▓▓▓▓▓▓\
+| ▓▓▓▓▓▓▓▓ ▓▓ ▓▓    ▓▓ >▓▓  ▓▓| ▓▓  | ▓▓/      ▓▓ ▓▓  | ▓▓ ▓▓   \▓▓ ▓▓    ▓▓
+| ▓▓  | ▓▓ ▓▓ ▓▓▓▓▓▓▓▓/  ▓▓▓▓\| ▓▓  | ▓▓  ▓▓▓▓▓▓▓ ▓▓__| ▓▓ ▓▓     | ▓▓▓▓▓▓▓▓
+| ▓▓  | ▓▓ ▓▓\▓▓     \  ▓▓ \▓▓\ ▓▓  | ▓▓\▓▓    ▓▓\▓▓    ▓▓ ▓▓      \▓▓     \
+ \▓▓   \▓▓\▓▓ \▓▓▓▓▓▓▓\▓▓   \▓▓\▓▓   \▓▓ \▓▓▓▓▓▓▓ \▓▓▓▓▓▓▓\▓▓       \▓▓▓▓▓▓▓
+                                                                            
+                                                                            
+                                                                            
 
-**`Desenvolvedor Backend`**
+                                                                                                                                                                                                                                            
+```
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=30&pause=1000&color=008D14&center=true&vCenter=true&random=true&width=500&lines=%F0%9F%92%BBBackand+Developer;%F0%9F%94%91Pentester;%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8FInvestigador+Digital" alt="Typing SVG" /></a>
+
+</div>
+
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 20 anos | Salvador-BA.
-🐍 F
+🐍
 Backand Developer focado em extrair o máximo desempenho do ecossistema Python.
 📸 Criador do perfil @__.xande._ no Instagram, onde simplifico a tecnologia para a comunidade.
 ⚡ Apaixonado por código limpo, arquitetura escalável e soluções eficientes de ponta a ponta.
